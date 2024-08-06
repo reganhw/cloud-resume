@@ -1,0 +1,47 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    background-color: #2e37fe;
+    color: #fffefa;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+a{
+    color: inherit;
+}
+
+.content{
+    width: 700px;
+    max-width: 97vw;
+
+}
+
+.section h2{
+    background-color: #9ffe36;
+    color:black;
+    font-size: 18px;
+    font-family: arial;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;    
+    text-align:center;
+}
+
+.section h2:hover{
+    background-color:#ff7700;
+    transition: transform 0.35s;
+}
+
+.item-title{
+    display:flex;
+    justify-content: space-between;
+}
+
+.date{
+    text-align: right;
+}
+
+ 
+  
